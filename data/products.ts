@@ -536,7 +536,7 @@ export const products: Product[] = [
     name: "MoveTrack Smart Fitness Watch",
     category: "Health & Wellness",
     categorySlug: "health-wellness",
-    images: ["/products/wireless-gaming-mouse-1.jpg", "/products/wireless-gaming-mouse-2.jpg"],
+    images: ["/products/movetrack-smart-fitness-watch-fix-1.jpg", "/products/movetrack-smart-fitness-watch-fix-2.jpg"],
     description: "A streamlined smartwatch for steps, heart rate, sleep insights, and everyday motivation.",
     features: ["Heart rate tracking", "Sleep insights", "7-day battery", "Water-resistant build"],
     specifications: { Display: "1.8 inch", Battery: "Up to 7 days", Compatibility: "iOS & Android", Color: "Blue/Black" },
