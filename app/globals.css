@@ -79,6 +79,8 @@ a {
   transition: color 0.2s ease;
 }
 
-a:hover {
-  color: var(--accent);
+@layer base {
+  a:hover {
+    color: var(--accent);
+  }
 }
