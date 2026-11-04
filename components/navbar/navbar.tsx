@@ -116,7 +116,7 @@ export function Navbar() {
               ))}
               <li data-mobile-extra className="mt-2 flex gap-2 border-t border-border pt-3 sm:hidden">
                 <Link href="/wishlist" onClick={() => setMobileOpen(false)} className="flex-1 rounded-md border border-border px-3 py-2 text-center text-sm font-medium hover:bg-muted">Wishlist</Link>
-                <Link href="/account" onClick={() => setMobileOpen(false)} className="flex-1 rounded-md border border-border px-3 py-2 text-center text-sm font-medium hover:bg-muted">Account</Link>
+                <Link href="/profile" onClick={() => setMobileOpen(false)} className="flex-1 rounded-md border border-border px-3 py-2 text-center text-sm font-medium hover:bg-muted">Account</Link>
               </li>
             </ul>
           </nav>
